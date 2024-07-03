@@ -1,0 +1,3 @@
+[submodule "AUTH"]
+	path = AUTH
+	url = git@github.com:d-sholaakanbi/MoonChild.git
